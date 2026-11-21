@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="Stock Market Predictor"
+        android:label="Stalk Stocks"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

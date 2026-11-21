@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_signin_button/flutter_signin_button.dart';
 import 'package:get/get.dart';
 import 'package:stock_market_predictor/controllers/auth_controller.dart';
 import 'package:hexcolor/hexcolor.dart';
